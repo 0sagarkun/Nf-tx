@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-"""
-Netflix TV Login Bot — Ultimate Edition v2.0
-Features: Credits system, SQLite vault, bulk cookies, inline buttons,
-          admin direct upload, real-time status, broadcast, user management
-"""
-
 import asyncio
 import io
 import json
@@ -35,7 +28,7 @@ requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
 #  CONFIG  —  edit before running
 # ══════════════════════════════════════════════════════════════════════
 BOT_TOKEN        = "8834589135:AAF20dbfsxvDZOBL3N1t87NZafIkgEl9lpw"
-ADMIN_IDS  = [6824677136,8033719088]           # your Telegram user ID(s)
+ADMIN_IDS  = [6824677136]           # your Telegram user ID(s)
 SUPPORT_USERNAME = "sagarkun0"        # t.me/your_support  (no @)
 CHANNEL_USERNAME = "foryoubysagar"        # optional, for join-check
 
