@@ -36,8 +36,8 @@ requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
 # ══════════════════════════════════════════════════════════════════════
 #  CONFIG
 # ══════════════════════════════════════════════════════════════════════
-BOT_TOKEN        = "8834589135:AAF20dbfsxvDZOBL3N1t87NZafIkgEl9lpw"
-ADMIN_IDS        = [6824677136,8033719088]
+BOT_TOKEN        = "8255766514:AAEuRCaCG85t6WtfjfyOYLFCFL_hUdu8uiY"
+ADMIN_IDS        = [8033719088]
 SUPPORT_USERNAME = "sagarkun0"
 CHANNEL_USERNAME = "foryoubysagar"
 
